@@ -4,7 +4,7 @@ This case study presents a comprehensive product strategy to enhance the onboard
 ## About the project
 A product case study to enhance onboarding for Cult.fit’s 5M+ users and 600+ centers. Includes user research, journey mapping, pain point analysis, and an AI-powered onboarding solution. Showcases product thinking, user-centric design, and data-driven strategy.
 
-##  project covers:
+##  project covers :
 
 * In-depth user research and persona development
 * Mapping the user journey and identifying major pain points
@@ -12,7 +12,7 @@ A product case study to enhance onboarding for Cult.fit’s 5M+ users and 600+ c
 * Designing an AI-powered onboarding assistant (“CultBot”) for personalized recommendations and seamless navigation
 * Clear success metrics focused on user retention, feature discovery, and subscription growth
 
-## Growth after enhancements:
+## Growth after enhancements :
 ### User Engagement & Experience KPIs
 * User Retention Rate: Increase by 15–25% within 6 months (e.g., from 40% to 50%+).
 * Onboarding Completion Rate: Target ≥90% of new users completing onboarding.
